@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compose</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_star">Starred</string>
+    <string name="menu_profile">Profile</string>
+    <string name="scroll_to_top">Scroll to top</string>
+    <string name="search_sea_animals">Search sea animals</string>
+    <string name="back_icon_detail">Back</string>
+    <string name="add_starred">Added to starred item</string>
+    <string name="remove_starred">remove from starred item</string>
+</resources>
